@@ -1,0 +1,556 @@
+ body {
+     font-family: 'Trirong', serif !important;
+     background: #E8E7E2 !important;
+ }
+
+ .card {
+     border: none;
+     background: none;
+ }
+
+ .bg-color-second {
+     background: #F6F6F1;
+ }
+
+ .first {
+     padding: 30px 0 !important;
+ }
+
+ .card2 {
+     margin-bottom: 80px;
+ }
+
+ .snap img {
+     width: 55%;
+ }
+
+ #navbarSupportedContent {
+     width: 100%;
+ }
+
+ #row1 {
+     padding: 20px 0px 64px 0px;
+ }
+
+ .button1 button {
+     background: none;
+     border: none;
+ }
+
+ .dropdown {
+     margin-left: 47px;
+ }
+
+ #row2 {
+     margin: 80px auto !important;
+ }
+
+ .card2 img {
+     width: 68% !important;
+ }
+
+ .txt1 h4 {
+     font-size: 3.2rem !important;
+     color: #888973;
+     line-height: 0.8;
+ }
+
+ .txt2 {
+     color: #B8B8B8;
+     font-size: 20px;
+     margin-top: 16px;
+ }
+
+ .button {
+     margin-top: 39px;
+ }
+
+ .button button {
+     background-color: #888973;
+     border-radius: 0px 44px 0px 44px;
+     height: 91px;
+     border: none;
+     width: 90px;
+     color: #F6F6F1;
+ }
+
+ /* navbar and de beaute finish */
+ @media screen and (max-width:991px) {
+     .card2 img {
+         width: 70% !important;
+     }
+
+     .txt1 h4 {
+         font-size: 2.5rem !important;
+     }
+
+     .txt2 {
+         font-size: 17px;
+     }
+
+     .card-body {
+         margin-top: 25px;
+     }
+
+     .button {
+         margin-top: 17px;
+     }
+
+     .button button {
+         width: 80px;
+         height: 80px;
+     }
+
+     .micro {
+         font-size: 13px !important;
+     }
+
+     .button2 button {
+         padding: 6px !important;
+     }
+
+     #empty h4 {
+         font-size: 1.7rem !important;
+         float: left;
+         margin-left: 8px;
+         margin-bottom: 25px;
+     }
+
+     #empty {
+         margin-left: 18px;
+     }
+
+     .card0 {
+         text-align: center;
+     }
+
+     #lashes {
+         margin-top: 0px !important;
+     }
+
+     #treat1 {
+         padding-right: 131px;
+     }
+
+     #treat4 {
+         padding-left: 25px;
+     }
+
+     #treat3 {
+         padding-right: 52px;
+     }
+
+     .card5 img {
+         width: 67% !important;
+         margin-top: 50px;
+     }
+
+     #skin {
+         font-size: 14px;
+     }
+
+     #phi {
+         margin-top: 150px !important;
+     }
+
+     .artist3 {
+         font-size: 15px;
+     }
+
+     .train {
+         margin-left: 40px !important;
+         margin-top: 77px !important;
+     }
+
+     #phi1 {
+         margin-top: 79px !important;
+     }
+
+     .pic {
+         width: 88% !important;
+         padding: 20px !important;
+     }
+
+     .pic img {
+         width: 72%;
+     }
+
+     .pic p {
+         font-size: 13px;
+     }
+
+     .footer {
+         font-size: 13px;
+     }
+ }
+
+ /* queryfor mobiles   */
+ @media screen and (max-width:767px) {
+     .card2 img {
+         width: 70% !important;
+     }
+
+     #row2 {
+         margin: 10px auto !important;
+     }
+
+     .card2 {
+         margin-bottom: 0px;
+     }
+
+     .banner {
+         flex-direction: column-reverse;
+     }
+
+     #lashes {
+         padding: 0px 0px 50px 0px !important;
+     }
+
+     #lashes1 {
+         margin-top: 0px !important;
+     }
+
+     #row4 {
+         padding: 33px 0 !important;
+     }
+
+     #master1 {
+         margin: 30px 0 !important;
+     }
+
+     #empty {
+         display: flex;
+         justify-content: center;
+         margin-right: 21px;
+     }
+
+     .button2 {
+         margin: 5px 0px 20px 0 !important;
+     }
+
+     .snap1 {
+         width: 60%;
+         margin: 25px auto;
+     }
+
+     .micro {
+         text-align: center;
+     }
+
+     #treat1 {
+         padding-right: 53px;
+     }
+
+     #three {
+         font-size: 2.7rem !important;
+     }
+
+     #treat3 {
+         margin-left: 39px;
+     }
+
+     .artist1 {
+         width: 100% !important;
+     }
+
+     #phi {
+         margin-top: 0px !important;
+         text-align: center;
+     }
+
+     #great {
+         padding-right: 10px;
+     }
+
+     .train {
+         text-align: center !important;
+         margin-left: 0px !important;
+         margin-top: 25px !important;
+     }
+
+     #phi1 {
+         margin-top: 0px !important;
+     }
+
+     .training1 {
+         font-size: 14px !important;
+     }
+
+     .trainig {
+         padding: 0px !important;
+     }
+
+     #hidden {
+         display: block !important;
+     }
+
+     #seen {
+         display: none;
+     }
+
+     .pic {
+         width: 72% !important;
+         padding: 40px !important;
+         margin: 15px auto !important;
+     }
+
+     .pic img {
+         width: 65% !important;
+     }
+
+     .footer {
+         flex-direction: column-reverse;
+         padding-bottom: 1rem !important;
+     }
+
+     .footage img {
+         width: 50% !important;
+         margin-top: 40px;
+     }
+
+     #zero {
+         padding-top: 0px !important;
+     }
+
+     .bg-step {
+         width: auto;
+         margin: 10px auto;
+     }
+
+     .info {
+         text-align: center;
+         flex-direction: column;
+         margin-bottom: 27px !important;
+     }
+
+     #step1 img {
+         width: auto !important;
+     }
+
+     .info2 {
+         flex-direction: column;
+         text-align: center;
+     }
+
+     .info3 {
+         margin: 0px auto;
+     }
+
+     .content {
+         padding: 1rem 0 !important;
+     }
+ }
+
+ /* our services section */
+ .bg2-secondary {
+     background: #F6F6F1 !important;
+ }
+
+ .quality {
+     color: #888973;
+ }
+
+ .button2 {
+     margin-top: 33px;
+ }
+
+ .button2 button {
+     background: white;
+     color: #888973;
+     border-radius: 25px;
+     border: none;
+     padding: 10px;
+ }
+
+ .micro {
+     margin-top: 10px;
+     font-size: 14px;
+ }
+
+ .snap1 img {
+     width: 100%;
+ }
+
+ /* what we offer section */
+ #lashes {
+     padding: 140px 0px;
+ }
+
+ .card5 img {
+     width: 80%;
+ }
+
+ .card-text5 {
+     font-size: 2.5rem;
+     color: #888973;
+ }
+
+ #skin {
+     color: #818181;
+ }
+
+ .range {
+     color: #818181;
+ }
+
+ #lashes1 {
+     margin-top: 50px;
+ }
+
+ #offer {
+     margin-top: 66px;
+ }
+
+ .booking {
+     margin: 40px 0px 0px 5px;
+ }
+
+ .booking button {
+     background: #888973;
+     padding: 6px 12px;
+     border: none;
+     border-radius: 25px;
+     color: white;
+ }
+
+ .booking i {
+     margin-left: 8px;
+ }
+
+ /* phiacadmy section */
+ .salon img {
+     width: 63%;
+ }
+
+ .artist3 {
+     padding-left: 0px !important;
+     color: #4D4C4C !important;
+ }
+
+ .artist1 {
+     color: #888973;
+     width: 50%;
+ }
+
+ .artist0 {
+     color: #818181
+ }
+
+ #phi {
+     margin-top: 247px;
+ }
+
+ #master1 {
+     margin: 100px 0px;
+ }
+
+ .artist2 {
+     color: #818181;
+ }
+
+ /* trainig section */
+ #phi1 {
+     margin-top: 130px;
+ }
+
+ .train {
+     margin-left: 178px;
+     margin-top: 157px;
+ }
+
+ .training {
+     color: #888973;
+     padding:0px 20px 0px 0px;
+ }
+
+ .training1 {
+     color: #818181;
+ }
+
+ #hidden {
+     display: none;
+ }
+
+ .bg3-secondary {
+     background: #F6F6F1;
+ }
+
+ #row4 {
+     padding: 85px 0px;
+ }
+
+ /* logos section */
+ .pic {
+     background: white;
+     text-align: center;
+     width: 91%;
+     padding: 59px;
+     border-radius: 100px;
+     margin: 100px 0px;
+ }
+
+ .pic img {
+     width: 93%;
+ }
+
+ .pic p {
+     padding-top: 9px;
+ }
+
+ /* footer section */
+ .bg4-secondary {
+     background: #F6F6F1;
+ }
+
+ .content {
+     padding: 5rem 0rem;
+ }
+
+ .footage img {
+     width: 87%;
+ }
+
+ #zero {
+     padding-top: 90px;
+ }
+
+ .footage p {
+     padding: 10px;
+ }
+
+ .footer {
+     padding-bottom: 8rem;
+ }
+
+ .step2 {
+     background: #5A6252;
+     color: white;
+     border-radius: 50%;
+     width: 8rem;
+     padding: 50px 0;
+     margin-right: 152px;
+     text-align: center;
+     height: 8rem;
+     margin: 5px;
+ }
+
+ .step {
+     padding-top: 38px;
+ }
+
+ #step1 img {
+     width: 60%;
+ }
+
+ .info {
+     margin-bottom: 77px;
+ }
+
+ .copyright {
+     padding-left: 80px;
+ }
+
+ .bg-step {
+     border: 2px solid;
+     border-radius: 50%;
+ }
